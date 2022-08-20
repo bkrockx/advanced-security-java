@@ -3,6 +3,7 @@ package com.github.hackathon.advancedsecurityjava.Models;
 public class Book {
     public String name;
     public String author;
+    public String description;
   
     public Boolean read = false;
   
